@@ -1,6 +1,6 @@
 # Golang Init Codebase Overview
 
-This codebase is a collection of small Go (Golang) projects, each in its own folder, demonstrating fundamental Go programming concepts. Each numbered directory contains a self-contained Go module with example code. Below is a summary of what each folder covers:
+This codebase is a collection of small Go (GoLang) projects, each in its own folder, demonstrating fundamental Go programming concepts. Each numbered directory contains a self-contained Go module with example code. Below is a summary of what each folder covers:
 
 - **01hello**: Basic "Hello, World!" program.
 - **02variables**: Variable declarations, types, constants, and printing variable types.
